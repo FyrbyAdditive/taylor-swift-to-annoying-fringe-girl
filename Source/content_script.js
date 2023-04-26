@@ -39,10 +39,13 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe Cloud\b/g, "My Butt");
-	v = v.replace(/\bThe cloud\b/g, "My butt");
-	v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bArtificial Intelligence\b/g, "Stochastic Parrot");
+	v = v.replace(/\bArtificial intelligence\b/g, "Stochastic parrot");
+	v = v.replace(/\bartificial Intelligence\b/g, "stochastic Parrot");
+	v = v.replace(/\bartificial intelligence\b/g, "stochastic parrot");
+	v = v.replace(/\bAI\b/g, "SP");
+	v = v.replace(/\bAIs\b/g, "SPs");
+	v = v.replace(/\bAI\'s\b/g, "SP\'s");
 	
 	textNode.nodeValue = v;
 }

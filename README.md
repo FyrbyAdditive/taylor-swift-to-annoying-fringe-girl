@@ -1,8 +1,4 @@
-artificial-intelligence-to-stochastic-parrot
+taylor-swift-to-annoying-fringe-girl
 =============
 
-Chrome extension that replaces occurrences of 'artificial intelligence' with 'stochastic parrot'
-
-[Direct download for Chrome](https://github.com/tageborg/artificial-intelligence-to-stochastic-parrot/blob/master/artificial-intelligence-to-stochastic-parrot.crx)
-
-Ref [the paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+Chrome extension that replaces occurrences of 'taylor swift' with 'annoying fringe girl'

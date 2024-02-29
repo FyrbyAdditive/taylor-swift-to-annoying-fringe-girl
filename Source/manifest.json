@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Artificial Intelligence To Stochastic Parrot",
+	"name": "Taylor Swift To Annoying Fringe Girl",
 	"version": "1.0",
-	"description": "Replaces the text 'artificial intelligence' with 'stochastic parrot'.",
+	"description": "Replaces the text 'taylor swift' with 'annoying fringe girl'.",
 	"content_scripts": 
 	[
 		{
